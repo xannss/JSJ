@@ -18,7 +18,7 @@
         </nav>
     </header>
     <section>
-        <p>hello wordl</p>
+        <p>hello word</p>
     </section>
 </body>
 </html>
