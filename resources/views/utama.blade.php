@@ -8,12 +8,12 @@
 </head>
 <body>
     <header>
-        <h1 class="logo">JSJ</h1>
-        <nav class="nav_about">
-        <ul>
-            <li>Utama</li>
-            <li>About</li>
-            <li>Profil</li>
+        <nav class="navbar">
+        <a href="#" class="logo">JSJ.</a></h1>
+        <ul class="menu">
+            <li><a href="#">Utama</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Tentang</a></li>
         </ul>
         </nav>
     </header>
