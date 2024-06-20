@@ -17,8 +17,14 @@
         </ul>
         </nav>
     </header>
+    <section class="lana">
+      <p>hello word</p>
+    </section>
     <section>
-        
+        ojan
+    </section>
+    <section>
+        fahmi
     </section>
 </body>
 </html>
