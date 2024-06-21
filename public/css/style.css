@@ -5,6 +5,7 @@
     margin: 0;
     padding: o;
     background-color: rgb(0, 18, 55);
+    font-family: "Poppins";
 }
 
 header {
@@ -38,4 +39,20 @@ header .navbar {
 
 .navbar a:hover {
     color: aqua;
+}
+
+.home {
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    padding: 50px 10%;
+}
+
+.home .content {
+    color: aliceblue;
+}
+
+.home .content h1 {
+    font-size: 100px;
+    max-width: 1000px;
 }
