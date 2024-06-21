@@ -41,11 +41,24 @@ header .navbar {
     color: aqua;
 }
 
+.navbar .sign {
+    color: rgb(0, 18, 55);
+    background-color: aliceblue;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px 20px;
+    border-radius: 20px;
+}
+
+
+
+
 .home {
     height: 80vh;
     display: flex;
     align-items: center;
     padding: 50px 10%;
+    padding-bottom: 90px;
 }
 
 .home .content {
@@ -55,4 +68,23 @@ header .navbar {
 .home .content h1 {
     font-size: 100px;
     max-width: 1000px;
+}
+
+.home .content p {
+    font-size: 20px;
+    max-width: 1000px;
+}
+
+.btn-sign {
+    color: rgb(0, 18, 55);
+    background-color: aliceblue;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 30px;
+    border-radius: 6px;
+}
+
+.btn-sign:hover {
+    background: aqua;
 }

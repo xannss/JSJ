@@ -11,10 +11,11 @@
         <nav class="navbar">
         <a href="#" class="logo">JSJ.</a></h1>
         <ul class="menu">
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">contact us</a></li>
+            <a href="#">Home</a>
+            <a href="#">About</a>
+            <a href="#">contact us</a>
         </ul>
+        <button class="sign">Sign</button>
         </nav>
     </header>
     <section class="home">
@@ -25,7 +26,7 @@
         <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi facere reprehenderit, atque officiis incidunt fugit aut quas impedit iure nostrum earum distinctio molestiae tenetur similique ab quaerat provident repudiandae. Sed!
         </p>
-        <button>order now</button>
+        <button class="btn-sign">order now</button>
       </div>
     </section>
     <section>
