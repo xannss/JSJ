@@ -39,31 +39,33 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nama Anggota</title>
+    <title style="color:white">Nama Anggota</title>
 </head>
 <body>
 <div class="card-container">
     <div class="card">
         <img src="" alt="">
         <div class="card-content">
-            <h3>Muhammad Fariz Rizky</h3>
-            <p>Sebagai Tampilan akhir</p>
+            <h3 style="color:white">Muhammad Fariz Rizky</h3>
+            <p style="color:white">Sebagai Tampilan akhir</p>
             <a href="" class="btn">Read more</a>
         </div>
     </div>
+
     <div class="card">
         <img src="" alt="">
         <div class="card-content">
-            <h3>Ahmmad Maulana Syarifuddin</h3>
-            <p>Sebagai Tampilan Awal</p>
+            <h3 style="color:white">Ahmmad Maulana Syarifuddin</h3>
+            <p style="color:white">Sebagai Tampilan Awal</p>
             <a href="" class="btn">Read more</a>
         </div>
     </div>
+
     <div class="card">
         <img src="" alt="">
         <div class="card-content">
-            <h3>Muhammad Fahmi Firmansyah</h3>
-            <p>Sebagai Membuat Tampilan Profil Profil</p>
+            <h3 style="color:white">Muhammad Fahmi Firmansyah</h3>
+            <p style="color:white">Sebagai Membuat Tampilan Profil Profil</p>
             <a href="" class="btn">Read more</a>
         </div>
     </div>
