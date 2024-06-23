@@ -44,7 +44,7 @@
 <body>
 <div class="card-container">
     <div class="card">
-        <img src="" alt="">
+        <img src="https://divedigital.id/wp-content/uploads/2021/10/1-min.png" alt="">
         <div class="card-content">
             <h3 style="color:white">Muhammad Fariz Rizky</h3>
             <p style="color:white">Sebagai Tampilan akhir</p>
@@ -53,7 +53,7 @@
     </div>
 
     <div class="card">
-        <img src="" alt="">
+        <img src="https://divedigital.id/wp-content/uploads/2021/10/1-min.png" alt="">
         <div class="card-content">
             <h3 style="color:white">Ahmmad Maulana Syarifuddin</h3>
             <p style="color:white">Sebagai Tampilan Awal</p>
@@ -62,7 +62,7 @@
     </div>
 
     <div class="card">
-        <img src="" alt="">
+        <img src="https://divedigital.id/wp-content/uploads/2021/10/1-min.png" alt="">
         <div class="card-content">
             <h3 style="color:white">Muhammad Fahmi Firmansyah</h3>
             <p style="color:white">Sebagai Membuat Tampilan Profil Profil</p>
